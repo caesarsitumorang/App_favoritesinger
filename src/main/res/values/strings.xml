@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">PenyanyiFavorit</string>
+    <string name="name_penyanyi">Nama Penyanyi</string>
+    <string name="description">Deskripsi</string>
+    <string name="caesar">Caesar Juanda Theodorus Situmorang</string>
+    <string name="email"> caesarsitumorang16@gmail.com</string>
+    <string name="aboutme">About Me</string>
+
+
+    <string-array name="data_name">
+        <item>Agnez Mo</item>
+        <item>Ariana Grande</item>
+        <item>Ed-Sheeren</item>
+        <item>Judika Sihotang</item>
+        <item>Justin Bieber</item>
+        <item>Khaleb J</item>
+        <item>Lewis Capaldi</item>
+        <item>Shawn Mendes</item>
+        <item>Taylor Swift</item>
+        <item>Tulus</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Agnes Monica Muljoto, dikenal secara profesional sebagai Agnez Mo, adalah seorang penyanyi, pencipta lagu, Penari, pemeran, dan tokoh televisi berkebangsaan Indonesia Dia secara profesional dikenal sebagai Agnes Monica sebelum mengubah nama panggungnya.Lagunya yang berjudul "Patience" merupakan salah satu lagu RnB yang paling banyak diputar di Amerika Serikat sepanjang tahun 2022, menjadikannya musisi Indonesia pertama yang berhasil menoreh pencapaian tersebut dan pada tahun yang sama Agnez didaulat menjadi Kapten Kehormatan </item>
+        <item>Ariana Grande adalah seorang penyanyi, penulis lagu, dan pemeran asal Amerika Serikat. Dia memulai kariernya pada tahun 2008 di drama musikal Broadway berjudul 13, sebelum memerankan Cat Valentine.Karier musik Grande dimulai pada 2011 dengan lagu latar Music from Victorious. Pada tahun 2013, dia merilis album studio pertamanya Yours Truly, yang menduduki puncak Billboard 200 AS. Single utama album ini, "The Way", debut di 10 besar Billboard Hot 100.</item>
+        <item>Edward Christopher Sheeran, MBE adalah seorang penyanyi, penulis lagu, gitaris, produser rekaman, dan aktor berkebangsaan Inggris. Sheeran lahir di Halifax, West Yorkshire, dan dibesarkan di Framlingham, Suffolk.Sheeran memenangkan Brit Awards sebagai Best British Male Solo Artist dan British Breakthrough Act. The A Team mendapat nominasi sebagai Song of the Year di Grammy Awards 2013, di mana dia membawakan lagu ini bersama Elton John Album studio keduanya, x (dibaca sebagai "multiply"), dirilis pada Juni 2014.</item>
+        <item>Judika Nalom Abadi Sihotang adalah penyanyi, aktor, dan produser rekaman berkebangsaan Indonesia. Judika memulai karier bermusik melalui ajang pencarian bakat bernyanyi Indonesian Idol Musim 2 pada tahun 2005.epanjang karier bermusik, Judika telah merilis tujuh album dengan beberapa album tersebut berhasil meraih penjualan multi-platinum seperti Album Teruslah Berharap milik Judika terjual sebanyak 580 ribu kopi di kedai KFC, dan meraih Awarding Multi Platinum 2022</item>
+        <item>Justin Drew Bieber adalah seorang penyanyi dan penulis lagu berkebangsaan Kanada. Setelah manajer pencarian bakat Scooter Braun menemukannya melalui video-video YouTube-nya,Bieber menjadi artis pertama yang mempunyai tujuh lagu dari rekaman debut di tangga lagu Billboard Hot 100.[7] Bieber merilis album studio penuh pertamanya, My World 2.0, pada tahun 2010.</item>
+        <item>Herrel Kaleb Jonathaniel Sihombing, yang dikenal sebagai Kaleb J adalah seorang penyanyi, dan penulis lagu berkebangsaan Indonesia. Ia merupakan penyanyi jebolan ajang pencarian bakat The Voice Indonesia yang tergabung dalam tim Isyana Sarasvati dan berhasil masuk 6 besar.Kaleb merilis debut singelnya yang berjudul "It's Only Me" pada 28 November 2020 melalui label musik independen bernama Passion Vibe dengan menggunakan nama panggung Kaleb J. </item>
+        <item>Lewis Marc Capaldi adalah seorang penyanyi-penulis lagu Skotlandia. Dia dinominasikan untuk Critics Choice Award di 2019 Brit Awards. Pada Maret 2019, lagu "Someone You Loved" menduduki puncak UK Singles Chart di mana tetap bertahan selama tujuh minggu, dan pada November 2019,pada November 2019, mencapai nomor satu di US Billboard Hot 100, itu dinominasikan di Penghargaan Grammy Tahunan ke-62 untuk Song of the Year dan memenangkan Penghargaan Brit 2020 untuk Song of the Year.</item>
+        <item>Shawn Mendes adalah seorang penyanyi,penulis lagu berkebangsaan Kanada. Shawn Mendes mendapatkan pengikut pada tahun 2013, setelah mengupload cover lagu di aplikasi berbagi video Vine.Pada tahun berikutnya, dia menarik perhatian manajer artis Andrew Gertler dan A dan R dari Island bernama Ziggy Chareton, yang membuatnya dikontrak di perusahaan rekaman ini. Dia sudah merilis tiga album studio, mengadakan tiga tur dunia, </item>
+        <item>Taylor Alison Swift adalah seorang penyanyi-penulis lagu berkebangsaan Amerika Serikat. Penulisan lagu naratifnya, yang sering berpusat di sekitar kehidupan pribadinya, telah menerima pujian kritis dan liputan media yang luas.pada usia 14 tahun untuk mengejar kariernya di musik country. Album studio debutnya yang bernama sama seperti namanya merupakan album tahun 2000-an terlama yang berada di Billboard 200. Single ketiga album, "Our Song"</item>
+        <item>Muhammad Tulus, S.Ars adalah penyanyi-penulis lagu berkebangsaan Indonesia. Tulus memulai karier profesionalnya sejak tahun 2011 melalui label rekaman independen TulusCompany yang didirikannya. Hampir semua karya musik yang dirilisnya adalah hasil karya ciptanya sendiri.Tulus memulai debut di industri musik dengan merilis album studio Tulus pada 28 September 2011 yang dirilis bersamaan dengan pertunjukan konser pertamanya, “Tulus: An Introduction”. </item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/agnez</item>
+        <item>@drawable/ariana</item>
+        <item>@drawable/edsheren</item>
+        <item>@drawable/judika</item>
+        <item>@drawable/justin</item>
+        <item>@drawable/khaleb</item>
+        <item>@drawable/lewis</item>
+        <item>@drawable/shwan</item>
+        <item>@drawable/taylor</item>
+        <item>@drawable/tulus</item>
+    </integer-array>
+
+
+</resources>

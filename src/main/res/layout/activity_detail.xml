@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imgPhoto"
+        android:layout_width="321dp"
+        android:layout_height="287dp"
+        android:layout_marginTop="16dp"
+        android:background="@color/orange"
+        android:scaleType="centerCrop"
+        android:src="@drawable/agnez"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        style="@style/TextContent.HeadlineMedium.Bold"
+        android:textSize="24sp"
+        android:textColor="@color/warna_biru"
+        android:id="@+id/namapenyanyi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="@string/name_penyanyi"
+        app:layout_constraintEnd_toEndOf="@+id/imgPhoto"
+        app:layout_constraintStart_toStartOf="@+id/imgPhoto"
+        app:layout_constraintTop_toBottomOf="@+id/imgPhoto" />
+
+    <TextView
+        android:id="@+id/deskripsifoto"
+        android:layout_width="332dp"
+        android:layout_height="281dp"
+        android:layout_marginTop="32dp"
+        android:text="@string/description"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/imgPhoto"
+        app:layout_constraintHorizontal_bias="0.943"
+        app:layout_constraintStart_toStartOf="@+id/namapenyanyi"
+        app:layout_constraintTop_toBottomOf="@+id/namapenyanyi"
+        app:layout_constraintVertical_bias="0.0" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
