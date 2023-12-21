@@ -21,6 +21,6 @@ Beberapa fitur utama dari aplikasi ini:
 - Fitur 4
 
 ## Libraries
-- [Android Jetpack]([https://nodejs.org/en/](https://developer.android.com/jetpack?hl=id)https://developer.android.com/jetpack?hl=id)
+- [Android Jetpack](https://developer.android.com/jetpack?hl=id)
 - [Lifecyle & Livedata](https://developer.android.com/jetpack/androidx/releases/lifecycle?hl=id)
 - [Kotlin Flow](https://developer.android.com/kotlin/flow?hl=id)
